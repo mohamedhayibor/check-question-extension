@@ -4,7 +4,7 @@ This chrome extension allows an easy access for the user to double check their q
 
 ## Installation
 
-Go to this [link](..).
+Go to this link (still implementing).
 
 ## Usage
 
