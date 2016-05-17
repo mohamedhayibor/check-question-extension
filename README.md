@@ -1,6 +1,8 @@
-# check-question-extension ![](https://img.shields.io/badge/status-stable-green.svg)
+# check-question-extension (still implementing)
 
 This chrome extension allows an easy access for the user to double check their questions.
+
+![](http://res.cloudinary.com/masteryoperation/image/upload/v1463514483/Screen_Shot_2016-05-17_at_3.46.41_PM_ekuk8b.png)
 
 ## Installation
 
